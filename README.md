@@ -1,14 +1,14 @@
 # WiixSpeech
 ![Preview-Screens](https://github.com/lucaswiix/WiixSpeech/blob/main/WiixSpeechBanner.png)
 
-![Preview-Screens](https://github.com/lucaswiix/WiixSpeech/blob/main/WiixSpeechDemo.png)
-
 ## About this Project
 
 Do you need to practice your english pronunciation? 
 Don't know or forget how to pronounce some words? Also, have trouble hearing or understanding some words in English?
 
 I asked these questions for myself and the answer to both was Yes. So, I developed a Mobile application in which you can add as many as you want to a playlist and listen to them repeatedly every day, all day and free. (Really free! No ads, no accounts upgrades or some else bullshits).
+
+![Preview-Screens](https://github.com/lucaswiix/WiixSpeech/blob/main/WiixSpeechDemo.png)
 
 
 ## Considering donating us.
