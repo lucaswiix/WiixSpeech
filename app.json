@@ -2,13 +2,18 @@
   "expo": {
     "name": "WiixSpeech",
     "slug": "WiixSpeech",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "sourceExts": [
+        "svg"
+      ]
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,13 +22,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "wiixSpeench"
     },
     "android": {
+      "versionCode": 2,
+      "permissions": [],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.lucaswiix.WiixSpeech"
     },
     "web": {
       "favicon": "./assets/favicon.png"
