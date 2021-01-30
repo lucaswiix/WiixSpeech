@@ -16,9 +16,9 @@ I did it with my heart, tho the company that produces beer does not do it, so, c
 
 [Paypal](https://www.paypal.com/donate/?hosted_button_id=HVT7JM4KL3532)
 
-### Latest Donations
-- Pedro Barreto $3
-- Savio Henrique $2
+- Latest Donations:
+    - Pedro Barreto U$3
+    - Savio Henrique U$3
 
 ## License
 
