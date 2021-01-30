@@ -10,8 +10,15 @@ Don't know or forget how to pronounce some words? Also, have trouble hearing or 
 I asked these questions for myself and the answer to both was Yes. So, I developed a Mobile application in which you can add as many as you want to a playlist and listen to them repeatedly every day, all day and free. (Really free! No ads, no accounts upgrades or some else bullshits).
 
 
-## I did it with my heart, tho the company that produces beer does not do it, so, considering donating us.
+## Considering donating us.
+
+I did it with my heart, tho the company that produces beer does not do it, so, considering donating us.
+
 [Paypal](https://www.paypal.com/donate/?hosted_button_id=HVT7JM4KL3532)
+
+### Latest Donations
+- Pedro Barreto $3
+- Savio Henrique $2
 
 ## License
 
