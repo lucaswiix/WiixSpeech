@@ -210,20 +210,6 @@ export default function App() {
   </View>
   )}
   </KeyboardAvoidingView>
-
-  <View style={{
-      backgroundColor: "#E9C46A",
-      padding: 10,
-      alignItems: "center",
-      justifyContent: "center"
-    }}>
-    <Text>
-     I do it with my heart, but the company that produces beer doesn't.&nbsp;     
-     <Text onPress={() => Linking.openURL('https://www.paypal.com/donate/?hosted_button_id=HVT7JM4KL3532')} style={{textDecorationLine: "underline",fontWeight: "bold", color: "rgba(0,0,32,0.9)"}}>
-      Consider donating to us by Paypal. 
-    </Text>
-   </Text>
-  </View>
   </SafeAreaView>
   );
 
